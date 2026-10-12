@@ -1,6 +1,6 @@
 # Sql-project
 
-## Sale_store_analysis
+## Sale_store_analysis 
 A retail store chain tracks daily sales transaction,including order details, customer info, product category, order item and order status. The business wants to optimize operation, improve customer experience, and incerase profibility using data driven decision.
 
 ## Problem statement
